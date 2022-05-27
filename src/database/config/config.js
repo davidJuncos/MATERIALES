@@ -3,9 +3,11 @@ module.exports =
   "development": {
     "username": "root",
     "password": null,
-    "database": "database_development",
+    //"database": "database_development",
+    "database": "movies_db",
     "host": "127.0.0.1",
-    "dialect": "mysql"
+    "dialect": "mysql",
+   // "operator"
   },
   "test": {
     "username": "root",

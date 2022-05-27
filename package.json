@@ -2,7 +2,8 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "nodemon src/app.js"
+    "test": "nodemon src/app.js",
+    "start": "nodemon app.js"
   },
   "keywords": [],
   "author": "",
